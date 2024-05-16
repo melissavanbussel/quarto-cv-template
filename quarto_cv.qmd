@@ -1,0 +1,93 @@
+---
+title: "Data Scientist CV"
+author: "John Doe"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    css: styles.css
+---
+
+# John Doe
+
+**Data Scientist**
+
+1234 Elm Street, City, Country
+
+Email: john.doe@example.com | Phone: +123 456 7890 | LinkedIn: linkedin.com/in/johndoe
+
+---
+
+## Professional Summary
+
+Experienced Data Scientist with a strong background in statistical analysis, machine learning, and data visualization. Proven ability to translate complex data into actionable insights.
+
+---
+
+## Work Experience
+
+### Senior Data Scientist
+**Tech Solutions Inc.** | City, Country | January 2020 - Present
+
+- Led a team of data scientists in developing predictive models to improve customer retention by 20%.
+- Implemented machine learning algorithms to analyze large datasets, resulting in a 15% increase in operational efficiency.
+- Collaborated with cross-functional teams to identify business opportunities and provide data-driven solutions.
+
+### Data Scientist
+**Data Insights LLC** | City, Country | June 2016 - December 2019
+
+- Developed and deployed recommendation systems that increased product sales by 25%.
+- Conducted A/B testing and analyzed results to optimize marketing strategies.
+- Created interactive dashboards and reports using Tableau and Power BI to visualize key performance indicators.
+
+---
+
+## Education
+
+### Master of Science in Data Science
+**University of Technology** | City, Country | 2014 - 2016
+
+- Coursework: Machine Learning, Statistical Analysis, Data Mining, Big Data Technologies.
+- Thesis: "Predictive Modeling of Customer Churn in E-commerce".
+
+### Bachelor of Science in Computer Science
+**City University** | City, Country | 2010 - 2014
+
+- Coursework: Algorithms, Data Structures, Database Systems, Artificial Intelligence.
+- Capstone Project: "Developing a Chatbot for Customer Service".
+
+---
+
+## Skills
+
+- **Programming Languages**: Python, R, SQL, Java
+- **Data Analysis**: Pandas, NumPy, Scikit-learn, TensorFlow
+- **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI
+- **Tools & Technologies**: Hadoop, Spark, AWS, Docker
+- **Soft Skills**: Analytical Thinking, Problem Solving, Communication, Team Leadership
+
+---
+
+## Projects
+
+### Project Name 1
+- Developed a machine learning model to predict stock prices with an accuracy of 90%.
+- Utilized Python libraries such as Pandas, NumPy, and Scikit-learn for data analysis and modeling.
+
+### Project Name 2
+- Designed and implemented a customer segmentation strategy using clustering algorithms.
+- Created interactive visualizations in Tableau to present insights to stakeholders.
+
+---
+
+## Certifications
+
+- **Certified Data Scientist** - Data Science Council of America (DASCA)
+- **AWS Certified Machine Learning - Specialty** - Amazon Web Services
+
+---
+
+## References
+
+Available upon request.
